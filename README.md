@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Cleyton Filipe</h1>
-<h3 align="center">Apaixonado por Tecnologia, atualmente estudando Análise e Desenvolvimento de Sistemas no Centro Universitário UNINASSAU</h3>
+<h3 align="center">Codificando futuros ancestrais</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cleytonfilipe&label=Profile%20views&color=0e75b6&style=flat" alt="cleytonfilipe" /> </p>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="250">
