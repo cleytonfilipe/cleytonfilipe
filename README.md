@@ -5,7 +5,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="250">
 - 🔭 Estou trabalhando no meu projeto pessoal **TEAMO**
 
-- 🌱 Atualmente estudando para ser desenvolvedor **Java**
+- 🌱 Atualmente estudando para ser desenvolvedor **Python**
 
 - 👨‍💻 Veja todos os meus projetos em [https://github.com/cleytonfilipe](https://github.com/cleytonfilipe)
 
