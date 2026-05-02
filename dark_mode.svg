@@ -1,61 +1,63 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590">
-<rect x="0" y="0" width="1200" height="590" rx="18" fill="#0d1117"/>
-<text x="30" y="38" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@@@@@@@@@%#%%%%%#*+***#*##%%#*@@@@@@@@@@@@@@@@</text>
-<text x="30" y="56" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@@@@@@@+*%%%##*++**++++++*##%%*+#@@@@@@@@@@@@@</text>
-<text x="30" y="74" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@@@@%+=+##*+++*#%@@@%%#%%#*+++*#++*@@@@@@@@@@@</text>
-<text x="30" y="92" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@@@+===*+=+*%@@@@@@@@%%%@@@@@@+++==+#@@@@@@@@@</text>
-<text x="30" y="110" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@%==+@%**%%@@@@@@@@@@@@@@@@@@@@%#@*==*@@@@@@@@</text>
-<text x="30" y="128" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@%==#@@%#@@%%%%%%@@@@@@@@@@@@@@@@@@@@*=*@@@@@@@</text>
-<text x="30" y="146" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@#+*@@@@#%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@*=%@@@@@@</text>
-<text x="30" y="164" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@=+@@@@@#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++@@@@@@</text>
-<text x="30" y="182" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@*=%@@@@@%#@%**+++*#%@@@@@%#*+++*#@@@@@@@@+@@@@@@</text>
-<text x="30" y="200" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@+#@@@@@@%%######*++*###***++*#%%%@@@%%@@@@%@@@@@</text>
-<text x="30" y="218" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@+@@#+===##***#%%#*++*#%#*+**#%%%%%%@==++#%@@@@@@</text>
-<text x="30" y="236" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@++=====-***+==++*****%%%#+***+++*%%@==++*#@@@@@@</text>
-<text x="30" y="254" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@*=+++==-*###*#####**#%@@@%#%%###%@@@====+*%@@@@@</text>
-<text x="30" y="272" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@+=+*===-#@@%%@@@%##%@@@@@@@%%@@@@@@@+===+*%%=++@</text>
-<text x="30" y="290" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@+==*+==-#@%%%@%%#*#**###**#%#%%%@@@@+===+*@*---@</text>
-<text x="30" y="308" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@#==++==-*####**##****#****#%%####%@@+==+=*@+---@</text>
-<text x="30" y="326" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@===+=--****+***++**##%########**#%@=-===##----%</text>
-<text x="30" y="344" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@#====--+***#+=+++***##**#####++##%@=---=*-----%</text>
-<text x="30" y="362" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@=----=**#**#*++%@@@@@@@@*-=+####%----------=+</text>
-<text x="30" y="380" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@@%-===*****###*##%@@@%%%%%######+----------=*</text>
-<text x="30" y="398" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@@@+@@@@#****##*********#%%###**+-----------=*</text>
-<text x="30" y="416" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@@@*@@@%*+++**###%%%%%%#%%%##***=----------==*</text>
-<text x="30" y="434" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@@@#@@%++++++*##%%@@@@@@@@@%#+*#+------------*</text>
-<text x="30" y="452" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@@@@#*****++==+*#%%@@%%%%%#++*##*------------=</text>
-<text x="30" y="470" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@@@@#*+++==-===-=+**##***+==++**#%%#**+=------=</text>
-<text x="30" y="488" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@@@@%*+++=------=++==-------=+++***##%%####%%%@@%#</text>
-<text x="30" y="506" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">@@%*+++++++===--=+++++++==++++++*****##############</text>
-<text x="30" y="524" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">#+======+*@@@@%*+++++++++++++++******##%%%######***</text>
-<text x="30" y="542" fill="#8b949e" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">=====*@@@@@@@@%*+++++++=++++++++*****##%%######***#</text>
-<text x="650" y="38" fill="#58a6ff" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" xml:space="preserve">cleyton@github ─────────────────────────</text>
-<text x="650" y="56" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Name.......................Cleyton Filipe</text>
-<text x="650" y="74" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Role...................Back-end Developer</text>
-<text x="650" y="92" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Study.................................ADS</text>
-<text x="650" y="110" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Focus..............Java | Back-end | APIs</text>
-<text x="650" y="128" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Location..............Recife - PE, Brasil</text>
-<text x="650" y="146" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Editor............................VS Code</text>
-<text x="650" y="164" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve"></text>
-<text x="650" y="182" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Languages................Java, JavaScript</text>
-<text x="650" y="200" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Web.............................HTML, CSS</text>
-<text x="650" y="218" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Database..............................SQL</text>
-<text x="650" y="236" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Tools.........................Git, GitHub</text>
-<text x="650" y="254" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Learning......................Spring Boot</text>
-<text x="650" y="272" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve"></text>
-<text x="650" y="290" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Daily Quest......Java | Rotina gamificada</text>
-<text x="650" y="308" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Sistema Eleição.......Java | POO | Lógica</text>
-<text x="650" y="326" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Password Tool............Java | Segurança</text>
-<text x="650" y="344" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve"></text>
-<text x="650" y="362" fill="#58a6ff" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" xml:space="preserve">Contacts ──────────────────────────────</text>
-<text x="650" y="380" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">LinkedIn.........linkedin.com/in/seu-link</text>
-<text x="650" y="398" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Portfolio....................seu-site.com</text>
-<text x="650" y="416" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Email.................seu-email@email.com</text>
-<text x="650" y="434" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve"></text>
-<text x="650" y="452" fill="#58a6ff" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" xml:space="preserve">GitHub Stats ──────────────────────────</text>
-<text x="650" y="470" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Repositories..........................XX</text>
-<text x="650" y="488" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Commits...............................XX</text>
-<text x="650" y="506" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Pull Requests.........................XX</text>
-<text x="650" y="524" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Stars.................................XX</text>
-<text x="650" y="542" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">Followers.............................XX</text>
+  <rect width="1200" height="590" rx="18" fill="#0d1117"/>
+  <g font-family="monospace" font-size="16">
+    <text x="30" y="38" fill="#8b949e">@@@@@@@@@@@@@@%#%%%%%#*+***#*##%%#*@@@@@@@@@@@@@@@@</text>
+    <text x="30" y="56" fill="#8b949e">@@@@@@@@@@@@+*%%%##*++**++++++*##%%*+#@@@@@@@@@@@@@</text>
+    <text x="30" y="74" fill="#8b949e">@@@@@@@@@%+=+##*+++*#%@@@%%#%%#*+++*#++*@@@@@@@@@@@</text>
+    <text x="30" y="92" fill="#8b949e">@@@@@@@@+===*+=+*%@@@@@@@@%%%@@@@@@+++==+#@@@@@@@@@</text>
+    <text x="30" y="110" fill="#8b949e">@@@@@@%==+@%**%%@@@@@@@@@@@@@@@@@@@@%#@*==*@@@@@@@@</text>
+    <text x="30" y="128" fill="#8b949e">@@@@@%==#@@%#@@%%%%%%@@@@@@@@@@@@@@@@@@@@*=*@@@@@@@</text>
+    <text x="30" y="146" fill="#8b949e">@@@@#+*@@@@#%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@*=%@@@@@@</text>
+    <text x="30" y="164" fill="#8b949e">@@@@=+@@@@@#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@++@@@@@@</text>
+    <text x="30" y="182" fill="#8b949e">@@@*=%@@@@@%#@%**+++*#%@@@@@%#*+++*#@@@@@@@@+@@@@@@</text>
+    <text x="30" y="200" fill="#8b949e">@@@+#@@@@@@%%######*++*###***++*#%%%@@@%%@@@@%@@@@@</text>
+    <text x="30" y="218" fill="#8b949e">@@@+@@#+===##***#%%#*++*#%#*+**#%%%%%%@==++#%@@@@@@</text>
+    <text x="30" y="236" fill="#8b949e">@@@++=====-***+==++*****%%%#+***+++*%%@==++*#@@@@@@</text>
+    <text x="30" y="254" fill="#8b949e">@@@*=+++==-*###*#####**#%@@@%#%%###%@@@====+*%@@@@@</text>
+    <text x="30" y="272" fill="#8b949e">@@@+=+*===-#@@%%@@@%##%@@@@@@@%%@@@@@@@+===+*%%=++@</text>
+    <text x="30" y="290" fill="#8b949e">@@@+==*+==-#@%%%@%%#*#**###**#%#%%%@@@@+===+*@*---@</text>
+    <text x="30" y="308" fill="#8b949e">@@@#==++==-*####**##****#****#%%####%@@+==+=*@+---@</text>
+    <text x="30" y="326" fill="#8b949e">@@@@===+=--****+***++**##%########**#%@=-===##----%</text>
+    <text x="30" y="344" fill="#8b949e">@@@@#====--+***#+=+++***##**#####++##%@=---=*-----%</text>
+    <text x="30" y="362" fill="#8b949e">@@@@@@=----=**#**#*++%@@@@@@@@*-=+####%----------=+</text>
+    <text x="30" y="380" fill="#8b949e">@@@@@@@%-===*****###*##%@@@%%%%%######+----------=*</text>
+    <text x="30" y="398" fill="#8b949e">@@@@@@@@+@@@@#****##*********#%%###**+-----------=*</text>
+    <text x="30" y="416" fill="#8b949e">@@@@@@@@*@@@%*+++**###%%%%%%#%%%##***=----------==*</text>
+    <text x="30" y="434" fill="#8b949e">@@@@@@@@#@@%++++++*##%%@@@@@@@@@%#+*#+------------*</text>
+    <text x="30" y="452" fill="#8b949e">@@@@@@@@@#*****++==+*#%%@@%%%%%#++*##*------------=</text>
+    <text x="30" y="470" fill="#8b949e">@@@@@@@@#*+++==-===-=+**##***+==++**#%%#**+=------=</text>
+    <text x="30" y="488" fill="#8b949e">@@@@@%*+++=------=++==-------=+++***##%%####%%%@@%#</text>
+    <text x="30" y="506" fill="#8b949e">@@%*+++++++===--=+++++++==++++++*****##############</text>
+    <text x="30" y="524" fill="#8b949e">#+======+*@@@@%*+++++++++++++++******##%%%######***</text>
+    <text x="30" y="542" fill="#8b949e">=====*@@@@@@@@%*+++++++=++++++++*****##%%######***#</text>
+    <text x="650" y="38" fill="#58a6ff" font-weight="700">cleyton@github --------------------------</text>
+    <text x="650" y="56" fill="#c9d1d9">Name.......................Cleyton Filipe</text>
+    <text x="650" y="74" fill="#c9d1d9">Role...................Back-end Developer</text>
+    <text x="650" y="92" fill="#c9d1d9">Study.................................ADS</text>
+    <text x="650" y="110" fill="#c9d1d9">Focus..............Java | Back-end | APIs</text>
+    <text x="650" y="128" fill="#c9d1d9">Location..............Recife - PE, Brasil</text>
+    <text x="650" y="146" fill="#c9d1d9">Editor............................VS Code</text>
+    <text x="650" y="164" fill="#c9d1d9"></text>
+    <text x="650" y="182" fill="#c9d1d9">Languages................Java, JavaScript</text>
+    <text x="650" y="200" fill="#c9d1d9">Web.............................HTML, CSS</text>
+    <text x="650" y="218" fill="#c9d1d9">Database..............................SQL</text>
+    <text x="650" y="236" fill="#c9d1d9">Tools.........................Git, GitHub</text>
+    <text x="650" y="254" fill="#c9d1d9">Learning......................Spring Boot</text>
+    <text x="650" y="272" fill="#c9d1d9"></text>
+    <text x="650" y="290" fill="#c9d1d9">Daily Quest......Java | Rotina gamificada</text>
+    <text x="650" y="308" fill="#c9d1d9">Sistema Eleicao.......Java | POO | Logica</text>
+    <text x="650" y="326" fill="#c9d1d9">Password Tool............Java | Seguranca</text>
+    <text x="650" y="344" fill="#c9d1d9"></text>
+    <text x="650" y="362" fill="#58a6ff" font-weight="700">Contacts -------------------------------</text>
+    <text x="650" y="380" fill="#c9d1d9">LinkedIn.........linkedin.com/in/seu-link</text>
+    <text x="650" y="398" fill="#c9d1d9">Portfolio....................seu-site.com</text>
+    <text x="650" y="416" fill="#c9d1d9">Email.................seu-email@email.com</text>
+    <text x="650" y="434" fill="#c9d1d9"></text>
+    <text x="650" y="452" fill="#58a6ff" font-weight="700">GitHub Stats ---------------------------</text>
+    <text x="650" y="470" fill="#c9d1d9">Repositories..........................XX</text>
+    <text x="650" y="488" fill="#c9d1d9">Commits...............................XX</text>
+    <text x="650" y="506" fill="#c9d1d9">Pull Requests.........................XX</text>
+    <text x="650" y="524" fill="#c9d1d9">Stars.................................XX</text>
+    <text x="650" y="542" fill="#c9d1d9">Followers.............................XX</text>
+  </g>
 </svg>
