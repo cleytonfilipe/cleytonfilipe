@@ -1,6 +1,8 @@
-<a href="https://github.com/cleytonfilipe">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleytonfilipe/cleytonfilipe/main/dark_mode.svg">
-    <img alt="Cleyton Filipe GitHub Profile README" src="https://raw.githubusercontent.com/cleytonfilipe/cleytonfilipe/main/light_mode.svg">
-  </picture>
-</a>
+<img src="https://raw.githubusercontent.com/cleytonfilipe/cleytonfilipe/main/dark_mode.svg">
+
+<br><br>
+
+## 📊 GitHub Stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cleytonfilipe&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonfilipe&layout=compact&theme=tokyonight"/>
