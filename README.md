@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cleytonfilipe/cleytonfilipe/main/dark_mode.svg">
+<img src="https://raw.githubusercontent.com/cleytonfilipe/cleytonfilipe/main/dark_mode.svg?v=2">
 
 <br><br>
 
