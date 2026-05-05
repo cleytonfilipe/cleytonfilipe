@@ -1,0 +1,129 @@
+<svg width="900" height="650" viewBox="0 0 900 650" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .text { font-family: monospace; fill: #c9d1d9; font-size: 14px; }
+    .accent { fill: #58a6ff; }
+    .green { fill: #3fb950; }
+    .yellow { fill: #d29922; }
+
+    .line { opacity: 0; animation: fade 0.3s forwards; }
+    @keyframes fade { to { opacity: 1; } }
+
+    .cursor { animation: blink 1s infinite; }
+    @keyframes blink {
+      0%, 50%, 100% { opacity: 1; }
+      25%, 75% { opacity: 0; }
+    }
+
+    /* barras animadas */
+    .bar { fill: #3fb950; }
+    .bar-bg { fill: #30363d; }
+    .grow { width: 0; animation: grow 1.5s ease forwards; }
+    @keyframes grow { from { width: 0 } to { width: var(--w) } }
+
+    /* loading animado (indeterminado) */
+    .load-bg { fill: #30363d; }
+    .load-bar {
+      fill: #3fb950;
+      transform-box: fill-box;
+      transform-origin: left;
+      animation: indeterminate 1.4s ease-in-out infinite;
+    }
+    @keyframes indeterminate {
+      0%   { transform: scaleX(0.15) translateX(0); }
+      50%  { transform: scaleX(0.6) translateX(120px); }
+      100% { transform: scaleX(0.15) translateX(240px); }
+    }
+  </style>
+
+  <rect width="100%" height="100%" class="bg"/>
+
+  <!-- ASCII (esquerda) -->
+  <text x="20" y="30" class="text line" style="animation-delay:0.2s">
+@@@@@@@@@@@@@@%#%%%%%#*+***#*##%%#*
+@@@@@@@@@@@@+*%%%##*++**++++++*##%%*
+@@@@@@@@@%+=+##*+++*#%@@@%%#%%#*+++*
+@@@@@@@@+===*+=+*%@@@@@@@@%%%@@@@@@+
+@@@@@@%==+@%**%%@@@@@@@@@@@@@@@@@@@@
+@@@@@%==#@@%#@@%%%%%%@@@@@@@@@@@@@@@
+@@@@#+*@@@@#%%%@@@@@@@@@@@@@@@@@@@@@
+@@@@=+@@@@@#%%@@@@@@@@@@@@@@@@@@@@@@
+  </text>
+
+  <!-- header -->
+  <text x="420" y="40" class="text accent line" style="animation-delay:1s">
+cleyton@github:~$
+  </text>
+
+  <!-- whoami -->
+  <text x="420" y="75" class="text line" style="animation-delay:1.4s">
+&gt; whoami
+  </text>
+  <text x="420" y="100" class="text green line" style="animation-delay:1.8s">
+Cleyton Filipe
+  </text>
+  <text x="420" y="125" class="text line" style="animation-delay:2.2s">
+Back-end Developer | Java | APIs
+  </text>
+  <text x="420" y="150" class="text line" style="animation-delay:2.6s">
+Recife - PE, Brasil
+  </text>
+
+  <!-- skills loading -->
+  <text x="420" y="190" class="text line" style="animation-delay:3s">
+&gt; loading skills...
+  </text>
+  <rect x="420" y="205" width="260" height="10" class="load-bg line" style="animation-delay:3.2s"/>
+  <rect x="420" y="205" width="60" height="10" class="load-bar line" style="animation-delay:3.2s"/>
+
+  <!-- skills (após loading) -->
+  <text x="420" y="235" class="text line" style="animation-delay:4.6s">
+&gt; skills
+  </text>
+
+  <text x="420" y="260" class="text line" style="animation-delay:5s">Java</text>
+  <rect x="480" y="250" width="180" height="10" class="bar-bg"/>
+  <rect x="480" y="250" height="10" class="bar grow" style="--w:150px; animation-delay:5.2s"/>
+
+  <text x="420" y="285" class="text line" style="animation-delay:5.4s">Spring Boot</text>
+  <rect x="480" y="275" width="180" height="10" class="bar-bg"/>
+  <rect x="480" y="275" height="10" class="bar grow" style="--w:120px; animation-delay:5.6s"/>
+
+  <text x="420" y="310" class="text line" style="animation-delay:5.8s">SQL</text>
+  <rect x="480" y="300" width="180" height="10" class="bar-bg"/>
+  <rect x="480" y="300" height="10" class="bar grow" style="--w:110px; animation-delay:6s"/>
+
+  <!-- github stats loading -->
+  <text x="420" y="350" class="text line" style="animation-delay:6.4s">
+&gt; fetch github-stats
+  </text>
+  <rect x="420" y="365" width="260" height="10" class="load-bg line" style="animation-delay:6.6s"/>
+  <rect x="420" y="365" width="60" height="10" class="load-bar line" style="animation-delay:6.6s"/>
+
+  <!-- github stats (simulado) -->
+  <text x="420" y="395" class="text line" style="animation-delay:7.8s">
+Repos..............12
+  </text>
+  <text x="420" y="420" class="text line" style="animation-delay:8.1s">
+Stars..............0
+  </text>
+  <text x="420" y="445" class="text line" style="animation-delay:8.4s">
+Followers..........1
+  </text>
+
+  <!-- contato -->
+  <text x="420" y="485" class="text line" style="animation-delay:8.8s">
+&gt; contact
+  </text>
+  <text x="420" y="510" class="text line" style="animation-delay:9.1s">
+LinkedIn...linkedin.com/in/cleyton-filipe
+  </text>
+  <text x="420" y="535" class="text line" style="animation-delay:9.4s">
+Email......cleyton.sdv@gmail.com
+  </text>
+
+  <!-- cursor -->
+  <text x="420" y="585" class="text cursor line" style="animation-delay:9.8s">
+█
+  </text>
+</svg>
